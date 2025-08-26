@@ -4,4 +4,4 @@ The above repository serves as the main documentation associated with assemblies
 Under the CERN-OHL-S v2 license documentation includes the bill of materials, assembly instructions, STEP files,
 etc. which eventually will be found here.
 
-![00092025]('/Users/sethlouiszimmerman/Documents/Practice/Index/00002025/00092025 | Standard Studio Tables/00092025-0005/00092025.jpg')
+![00092025]('MEDIA/PHOTOS/00092025.jpg')
