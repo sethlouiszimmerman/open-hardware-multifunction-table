@@ -2,7 +2,7 @@
 ___
 The above repository serves as the main documentation associated with assemblies of the multifunction table.
 
-![00092025](PHOTOS/00092025.jpg "WIP Photo")<br>
+![00092025](SUPPORTING-MATERIALS/PHOTOS/00092025.jpg "WIP Photo")<br>
 Current state of devlopment.
 
 ## Licenses ##
