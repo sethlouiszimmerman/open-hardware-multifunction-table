@@ -12,3 +12,10 @@ The following licenses are used:<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;now known or later developed: [CERN-OHL-S v2](LICENSE)<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;All supporting materials, including but not limited to written documentation, manuals, diagrams,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;images, photographs, audio recordings, and audiovisual works: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+
+## Software Used ##
+___
+Unfortunately, most of what is used are propietary, yet are as follows:<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Rhino3d](https://www.rhino3d.com/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[AutoCAD](https://www.autodesk.com/products/autocad/overview)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Fusion](https://www.autodesk.com/products/fusion-360/overview)<br><br>
