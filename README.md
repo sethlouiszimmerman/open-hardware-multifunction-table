@@ -7,5 +7,5 @@ Current state of devlopment.
 
 ## Licenses ##
 ___
-[CERN-OHL-S v2](main/license)
+[CERN-OHL-S v2](main/license)<br>
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
