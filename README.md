@@ -8,5 +8,5 @@ Current state of devlopment.
 ## Licenses ##
 ___
 The following licenses are used:<br>
-    Technical drawings: [CERN-OHL-S v2](LICENSE)<br>
-    General media not under trademark: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+    Technical drawings, CAD models, bills of materials, etc. known or later developed: [CERN-OHL-S v2](LICENSE)<br>
+    All supporting materials, including but not limited to written documentation, manuals, diagrams,<br>images, photographs, audio recordings, and audiovisual works: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
