@@ -15,8 +15,7 @@ The following licenses are used:<br><br>
 
 ## Software Used ##
 ___
-Unfortunately, most of what is used are propietary, yet are as follows:<br><br>
+Unfortunately, the software used are propietary, yet are as follows:<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Rhino3d](https://www.rhino3d.com/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[FreeCAD](https://www.freecad.org/index.php?lang=en)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[AutoCAD](https://www.autodesk.com/products/autocad/overview)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Fusion](https://www.autodesk.com/products/fusion-360/overview)<br><br>
